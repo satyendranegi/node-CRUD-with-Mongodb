@@ -1,4 +1,4 @@
-# <code>node-CRUD-with-Mongodb</code>
+ node-CRUD-with-Mongodb
 
 // Go to the project folder and use npm init command. It add package.json file in project
 # <code>npm init</code>
